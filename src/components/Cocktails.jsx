@@ -15,7 +15,7 @@ const Cocktails = () => {
     });
 
     parallaxTimeline
-    .from("#c-left-leaf", {
+      .from("#c-left-leaf", {
         x: -100,
         y: 100,
       })
